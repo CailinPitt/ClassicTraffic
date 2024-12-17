@@ -4,7 +4,7 @@
   "description": "Twitter bot that tweet images from traffic cameras",
   "main": "app.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "canvas": "github:Automattic/node-canvas#198080580a0e3938c48daae357b88a1638a9ddcd",
     "fs-extra": "^8.1.0",
     "gifencoder": "^2.0.1",
